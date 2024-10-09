@@ -1,0 +1,1863 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Serial.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SettingPORT" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SettingBAUD" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SeqtextBox1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;BOOT</Value>
+    </Setting>
+    <Setting Name="SeqtextBox2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;BOOT1</Value>
+    </Setting>
+    <Setting Name="SeqtextBox3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TREMBLE</Value>
+    </Setting>
+    <Setting Name="SeqtextBox4" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SeqtextBox5" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SeqtextBox6" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="AnswetextBox1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;ENTERPROGMODE,115200&gt;</Value>
+    </Setting>
+    <Setting Name="AnswetextBox2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;ENTERPROGMODE,115200&gt;</Value>
+    </Setting>
+    <Setting Name="AnswetextBox3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">any_command</Value>
+    </Setting>
+    <Setting Name="AnswetextBox4" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="AnswetextBox5" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="AnswetextBox6" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="MacroSplitterDistance" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">202</Value>
+    </Setting>
+    <Setting Name="LeftRigthSplitterC_Distance" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1220</Value>
+    </Setting>
+    <Setting Name="MacroButton1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Edit Macro1 button</Value>
+    </Setting>
+    <Setting Name="MacroButton2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Edit Macro2 button</Value>
+    </Setting>
+    <Setting Name="MacroButton3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Edit Macro3 button</Value>
+    </Setting>
+    <Setting Name="MacroButton4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Edit Macro4 button</Value>
+    </Setting>
+    <Setting Name="MacroButton5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Edit Macro5 button</Value>
+    </Setting>
+    <Setting Name="MacroButton6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Edit Macro6 button</Value>
+    </Setting>
+    <Setting Name="MacroButton7" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Edit Macro7 button</Value>
+    </Setting>
+    <Setting Name="MacroButton8" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Edit Macro8 button</Value>
+    </Setting>
+    <Setting Name="MacroButton9" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Edit Macro9 button</Value>
+    </Setting>
+    <Setting Name="MacroButton10" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Edit Macro10 button</Value>
+    </Setting>
+    <Setting Name="MacroButton11" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Edit Macro11 button</Value>
+    </Setting>
+    <Setting Name="MacroData1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data to Send</Value>
+    </Setting>
+    <Setting Name="MacroData2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data to Send</Value>
+    </Setting>
+    <Setting Name="MacroData3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data to Send</Value>
+    </Setting>
+    <Setting Name="MacroData4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data to Send</Value>
+    </Setting>
+    <Setting Name="MacroData5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data to Send</Value>
+    </Setting>
+    <Setting Name="MacroData6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data to Send</Value>
+    </Setting>
+    <Setting Name="MacroData7" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data to Send</Value>
+    </Setting>
+    <Setting Name="MacroData8" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data to Send</Value>
+    </Setting>
+    <Setting Name="MacroData9" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data to Send</Value>
+    </Setting>
+    <Setting Name="MacroData10" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data to Send</Value>
+    </Setting>
+    <Setting Name="MacroData11" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data to Send</Value>
+    </Setting>
+    <Setting Name="MacroData12" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data to Send</Value>
+    </Setting>
+    <Setting Name="MacroData13" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data to Send</Value>
+    </Setting>
+    <Setting Name="MacroData14" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data to Send</Value>
+    </Setting>
+    <Setting Name="MacroData15" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data to Send</Value>
+    </Setting>
+    <Setting Name="MacroData16" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data to Send</Value>
+    </Setting>
+    <Setting Name="MacroData17" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data to Send</Value>
+    </Setting>
+    <Setting Name="MacroData18" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data to Send</Value>
+    </Setting>
+    <Setting Name="MacroData19" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data to Send</Value>
+    </Setting>
+    <Setting Name="MacroData20" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data to Send</Value>
+    </Setting>
+    <Setting Name="MacroData21" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data to Send</Value>
+    </Setting>
+    <Setting Name="MacroData22" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data to Send</Value>
+    </Setting>
+    <Setting Name="MacroData23" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data to Send</Value>
+    </Setting>
+    <Setting Name="MacroData24" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data to Send</Value>
+    </Setting>
+    <Setting Name="MacroData25" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data to Send</Value>
+    </Setting>
+    <Setting Name="MacroData26" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data to Send</Value>
+    </Setting>
+    <Setting Name="MacroData27" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data to Send</Value>
+    </Setting>
+    <Setting Name="MacroData28" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data to Send</Value>
+    </Setting>
+    <Setting Name="MacroData29" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data to Send</Value>
+    </Setting>
+    <Setting Name="MacroData30" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data to Send</Value>
+    </Setting>
+    <Setting Name="MacroButton12" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Edit Macro12 button</Value>
+    </Setting>
+    <Setting Name="MacroButton13" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Edit Macro13 button</Value>
+    </Setting>
+    <Setting Name="MacroButton14" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Edit Macro14 button</Value>
+    </Setting>
+    <Setting Name="MacroButton15" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Edit Macro15 button</Value>
+    </Setting>
+    <Setting Name="MacroButton16" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Edit Macro16 button</Value>
+    </Setting>
+    <Setting Name="MacroButton17" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Edit Macro17 button</Value>
+    </Setting>
+    <Setting Name="MacroButton18" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Edit Macro18 button</Value>
+    </Setting>
+    <Setting Name="MacroButton19" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Edit Macro19 button</Value>
+    </Setting>
+    <Setting Name="MacroButton20" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Edit Macro20 button</Value>
+    </Setting>
+    <Setting Name="MacroButton21" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Edit Macro21 button</Value>
+    </Setting>
+    <Setting Name="MacroButton22" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Edit Macro22 button</Value>
+    </Setting>
+    <Setting Name="MacroButton23" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Edit Macro23 button</Value>
+    </Setting>
+    <Setting Name="MacroButton24" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Edit Macro24 button</Value>
+    </Setting>
+    <Setting Name="MacroButton25" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Edit Macro25 button</Value>
+    </Setting>
+    <Setting Name="MacroButton26" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Edit Macro26 button</Value>
+    </Setting>
+    <Setting Name="MacroButton27" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Edit Macro27 button</Value>
+    </Setting>
+    <Setting Name="MacroButton28" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Edit Macro28 button</Value>
+    </Setting>
+    <Setting Name="MacroButton29" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Edit Macro29 button</Value>
+    </Setting>
+    <Setting Name="MacroButton30" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Edit Macro30 button</Value>
+    </Setting>
+    <Setting Name="SettingTextBox1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;COMMAND,1,F&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;COMMAND,2,F&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;COMMAND,3,F&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;COMMAND,4,F&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;COMMAND,5,F&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;COMMAND,6,F&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox7" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;COMMAND,7,F&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox8" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;COMMAND,8,F&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox9" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;COMMAND,9,F&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox10" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;COMMAND,10,F&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox11" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;COMMAND,11,F&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox12" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;COMMAND,12,F&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox13" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;COMMAND,13,F&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox14" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;COMMAND,14,F&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox15" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;COMMAND,15,F&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox16" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;COMMAND,16,F&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox17" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;COMMAND,17,F&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox18" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;COMMAND,18,F&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox19" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;COMMAND,19,F&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox20" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;COMMAND,20,F&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox21" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;COMMAND,21,F&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox22" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;COMMAND,22,F&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox23" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;COMMAND,23,F&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox24" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;COMMAND,24,F&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox25" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;COMMAND,25,F&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox26" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;COMMAND,26,F&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox27" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;COMMAND,27,F&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox28" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;COMMAND,28,F&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox29" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;COMMAND,29,F&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox30" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;COMMAND,30,F&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox31" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;COMMAND,31,F&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox32" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;COMMAND,32,F&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox33" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;COMMAND,33,F&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox34" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;COMMAND,34,F&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox35" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;COMMAND,35,F&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox36" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;COMMAND,36,F&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox37" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;COMMAND,37,F&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox38" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;COMMAND,38,F&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox39" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;COMMAND,39,F&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox40" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;COMMAND,40,F&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox1P2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 2 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox2P2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 2 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox3P2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 2 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox4P2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 2 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox5P2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 2 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox6P2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 2 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox7P2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 2 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox8P2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 2 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox9P2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 2 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox10P2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 2 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox11P2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 2 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox12P2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 2 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox13P2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 2 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox14P2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 2 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox15P2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 2 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox16P2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 2 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox17P2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 2 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox18P2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 2 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox19P2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 2 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox20P2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 2 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox21P2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 2 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox22P2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 2 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox23P2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 2 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox24P2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 2 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox25P2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 2 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox26P2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 2 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox27P2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 2 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox28P2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 2 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox29P2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 2 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox30P2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 2 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox31P2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 2 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox32P2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 2 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox33P2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 2 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox34P2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 2 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox35P2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 2 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox36P2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 2 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox37P2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 2 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox38P2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 2 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox39P2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 2 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox40P2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 2 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox1P3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 3 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox2P3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 3 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox3P3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 3 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox4P3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 3 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox5P3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 3 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox6P3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 3 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox7P3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 3 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox8P3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 3 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox9P3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 3 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox10P3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 3 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox11P3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 3 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox12P3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 3 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox13P3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 3 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox14P3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 3 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox15P3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 3 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox16P3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 3 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox17P3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 3 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox18P3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 3 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox19P3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 3 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox20P3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 3 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox21P3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 3 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox22P3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 3 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox23P3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 3 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox24P3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 3 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox25P3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 3 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox26P3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 3 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox27P3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 3 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox28P3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 3 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox29P3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 3 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox30P3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 3 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox31P3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 3 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox32P3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 3 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox33P3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 3 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox34P3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 3 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox35P3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 3 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox36P3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 3 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox37P3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 3 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox38P3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 3 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox39P3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 3 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox40P3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 3 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox1P4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 4 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox2P4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 4 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox3P4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 4 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox4P4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 4 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox5P4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 4 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox6P4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 4 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox7P4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 4 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox8P4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 4 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox9P4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 4 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox10P4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 4 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox11P4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 4 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox12P4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 4 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox13P4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 4 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox14P4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 4 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox15P4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 4 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox16P4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 4 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox17P4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 4 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox18P4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 4 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox19P4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 4 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox20P4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 4 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox21P4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 4 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox22P4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 4 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox23P4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 4 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox24P4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 4 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox25P4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 4 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox26P4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 4 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox27P4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 4 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox28P4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 4 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox29P4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 4 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox30P4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 4 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox31P4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 4 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox32P4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 4 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox33P4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 4 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox34P4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 4 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox35P4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 4 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox36P4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 4 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox37P4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 4 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox38P4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 4 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox39P4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 4 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox40P4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 4 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox1P5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 5 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox2P5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 5 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox3P5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 5 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox4P5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 5 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox5P5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 5 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox6P5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 5 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox7P5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 5 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox8P5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 5 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox9P5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 5 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox10P5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 5 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox11P5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 5 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox12P5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 5 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox13P5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 5 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox14P5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 5 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox15P5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 5 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox16P5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 5 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox17P5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 5 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox18P5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 5 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox19P5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 5 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox20P5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 5 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox21P5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 5 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox22P5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 5 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox23P5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 5 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox24P5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 5 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox25P5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 5 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox26P5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 5 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox27P5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 5 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox28P5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 5 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox29P5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 5 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox30P5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 5 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox31P5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 5 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox32P5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 5 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox33P5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 5 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox34P5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 5 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox35P5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 5 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox36P5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 5 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox37P5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 5 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox38P5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 5 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox39P5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 5 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox40P5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 5 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox1P6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 6 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox2P6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 6 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox3P6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 6 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox4P6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 6 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox5P6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 6 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox6P6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 6 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox7P6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 6 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox8P6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 6 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox9P6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 6 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox10P6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 6 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox11P6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 6 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox12P6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 6 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox13P6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 6 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox14P6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 6 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox15P6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 6 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox16P6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 6 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox17P6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 6 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox18P6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 6 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox19P6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 6 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox20P6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 6 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox21P6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 6 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox22P6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 6 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox23P6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 6 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox24P6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 6 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox25P6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 6 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox26P6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 6 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox27P6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 6 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox28P6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 6 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox29P6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 6 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox30P6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 6 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox31P6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 6 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox32P6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 6 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox33P6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 6 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox34P6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 6 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox35P6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 6 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox36P6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 6 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox37P6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 6 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox38P6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 6 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox39P6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 6 command&gt;</Value>
+    </Setting>
+    <Setting Name="SettingTextBox40P6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Profile 6 command&gt;</Value>
+    </Setting>
+    <Setting Name="ActualProfileSaved" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="ProfileButton1String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Profile 1</Value>
+    </Setting>
+    <Setting Name="ProfileButton2String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Profile 2</Value>
+    </Setting>
+    <Setting Name="ProfileButton3String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Profile 3</Value>
+    </Setting>
+    <Setting Name="ProfileButton4String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Profile 4</Value>
+    </Setting>
+    <Setting Name="ProfileButton5String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Profile 5</Value>
+    </Setting>
+    <Setting Name="ProfileButton6String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Profile 6</Value>
+    </Setting>
+    <Setting Name="CurrentProfile_buttonString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Profile 1</Value>
+    </Setting>
+    <Setting Name="HighlighttextBoxSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">example text to highlight</Value>
+    </Setting>
+    <Setting Name="IP_IN_CLIENT_MODE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">127.0.0.1</Value>
+    </Setting>
+    <Setting Name="TCP_CLIENT" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="AutoConnect" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Client_PORT" Type="System.String" Scope="User">
+      <Value Profile="(Default)">8090</Value>
+    </Setting>
+    <Setting Name="Server_PORT" Type="System.String" Scope="User">
+      <Value Profile="(Default)">8080</Value>
+    </Setting>
+    <Setting Name="Client_ADDRESS" Type="System.String" Scope="User">
+      <Value Profile="(Default)">127.0.0.2</Value>
+    </Setting>
+    <Setting Name="Server_ADDRESS" Type="System.String" Scope="User">
+      <Value Profile="(Default)">127.0.0.1</Value>
+    </Setting>
+    <Setting Name="APP_RESTARTED" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="SavedTextColour" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Blue</Value>
+    </Setting>
+    <Setting Name="SavedBackColour" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="HighlighttextBoxSetting2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">example text to highlight</Value>
+    </Setting>
+    <Setting Name="SavedHighlight1Colour" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Red</Value>
+    </Setting>
+    <Setting Name="SavedHighlight2Colour" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">255, 255, 128</Value>
+    </Setting>
+    <Setting Name="SavedHighlightTickbox1" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="SavedHighlightTickbox2" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Profile1SendButton1String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile1SendButton2String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile1SendButton4String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile1SendButton5String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile1SendButton6String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile1SendButton7String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile1SendButton3String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile1SendButton8String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile1SendButton9String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile1SendButton10String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile1SendButton11String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile1SendButton12String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile1SendButton13String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile1SendButton14String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile1SendButton15String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile1SendButton16String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile1SendButton17String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile1SendButton18String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile1SendButton19String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile1SendButton20String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile1SendButton21String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile1SendButton22String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile1SendButton23String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile1SendButton24String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile1SendButton25String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile1SendButton26String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile1SendButton27String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile1SendButton28String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile1SendButton29String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile1SendButton30String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile1SendButton31String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile1SendButton32String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile1SendButton33String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile1SendButton34String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile1SendButton35String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile1SendButton36String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile1SendButton37String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile1SendButton38String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile1SendButton39String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile1SendButton40String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile2SendButton1String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile2SendButton2String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile2SendButton4String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile2SendButton5String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile2SendButton6String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile2SendButton7String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile2SendButton8String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile2SendButton9String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile2SendButton10String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile2SendButton11String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile2SendButton12String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile2SendButton13String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile2SendButton14String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile2SendButton15String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile2SendButton16String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile2SendButton17String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile2SendButton18String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile2SendButton19String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile2SendButton20String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile2SendButton21String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile2SendButton22String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile2SendButton23String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile2SendButton24String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile2SendButton25String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile2SendButton26String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile2SendButton27String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile2SendButton28String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile2SendButton29String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile2SendButton30String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile2SendButton31String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile2SendButton32String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile2SendButton33String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile2SendButton34String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile2SendButton35String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile2SendButton36String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile2SendButton37String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile2SendButton38String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile2SendButton39String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile2SendButton40String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile3SendButton1String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile3SendButton2String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile3SendButton4String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile3SendButton5String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile3SendButton6String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile3SendButton7String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile3SendButton8String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile3SendButton9String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile3SendButton10String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile3SendButton11String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile3SendButton12String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile3SendButton13String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile3SendButton14String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile3SendButton15String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile3SendButton16String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile3SendButton17String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile3SendButton18String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile3SendButton19String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile3SendButton20String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile3SendButton21String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile3SendButton22String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile3SendButton23String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile3SendButton24String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile3SendButton25String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile3SendButton26String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile3SendButton27String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile3SendButton28String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile3SendButton29String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile3SendButton30String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile3SendButton31String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile3SendButton32String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile3SendButton33String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile3SendButton34String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile3SendButton35String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile3SendButton36String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile3SendButton37String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile3SendButton38String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile3SendButton39String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile3SendButton40String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile4SendButton1String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile4SendButton2String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile4SendButton4String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile4SendButton5String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile4SendButton6String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile4SendButton7String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile4SendButton8String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile4SendButton9String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile4SendButton10String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile4SendButton11String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile4SendButton12String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile4SendButton13String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile4SendButton14String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile4SendButton15String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile4SendButton16String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile4SendButton17String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile4SendButton18String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile4SendButton19String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile4SendButton20String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile4SendButton21String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile4SendButton22String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile4SendButton23String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile4SendButton24String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile4SendButton25String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile4SendButton26String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile4SendButton27String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile4SendButton28String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile4SendButton29String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile4SendButton30String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile4SendButton31String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile4SendButton32String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile4SendButton33String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile4SendButton34String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile4SendButton35String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile4SendButton36String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile4SendButton37String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile4SendButton38String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile4SendButton39String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile4SendButton40String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile5SendButton1String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile5SendButton2String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile5SendButton4String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile5SendButton5String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile5SendButton6String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile5SendButton7String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile5SendButton8String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile5SendButton9String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile5SendButton10String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile5SendButton11String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile5SendButton12String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile5SendButton13String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile5SendButton14String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile5SendButton15String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile5SendButton16String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile5SendButton17String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile5SendButton18String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile5SendButton19String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile5SendButton20String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile5SendButton21String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile5SendButton22String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile5SendButton23String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile5SendButton24String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile5SendButton25String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile5SendButton26String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile5SendButton27String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile5SendButton28String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile5SendButton29String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile5SendButton30String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile5SendButton31String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile5SendButton32String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile5SendButton33String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile5SendButton34String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile5SendButton35String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile5SendButton36String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile5SendButton37String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile5SendButton38String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile5SendButton39String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile5SendButton40String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile6SendButton1String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile6SendButton2String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile6SendButton4String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile6SendButton5String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile6SendButton6String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile6SendButton7String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile6SendButton8String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile6SendButton9String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile6SendButton10String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile6SendButton11String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile6SendButton12String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile6SendButton13String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile6SendButton14String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile6SendButton15String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile6SendButton16String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile6SendButton17String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile6SendButton18String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile6SendButton19String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile6SendButton20String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile6SendButton21String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile6SendButton22String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile6SendButton23String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile6SendButton24String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile6SendButton25String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile6SendButton26String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile6SendButton27String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile6SendButton28String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile6SendButton29String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile6SendButton30String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile6SendButton31String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile6SendButton32String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile6SendButton33String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile6SendButton34String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile6SendButton35String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile6SendButton36String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile6SendButton37String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile6SendButton38String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile6SendButton39String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile6SendButton40String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile2SendButton3String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile3SendButton3String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile4SendButton3String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile5SendButton3String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="Profile6SendButton3String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Send</Value>
+    </Setting>
+    <Setting Name="TimedCommandtextBox1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Command to send every..1</Value>
+    </Setting>
+    <Setting Name="TimedCommandtextBox2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Command to send every..2</Value>
+    </Setting>
+    <Setting Name="TimedCommandtextBox3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Command to send every..3</Value>
+    </Setting>
+    <Setting Name="TimedCommandtextBox4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Command to send every..4</Value>
+    </Setting>
+    <Setting Name="TimedCommandtextBox5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Command to send every..5</Value>
+    </Setting>
+    <Setting Name="TimedCommandtextBox6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Command to send every..6</Value>
+    </Setting>
+    <Setting Name="TimedCommandtextBox7" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Command to send every..7</Value>
+    </Setting>
+    <Setting Name="TimedCommandtextBox8" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Command to send every..8</Value>
+    </Setting>
+    <Setting Name="TimedCommandtextBox9" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Command to send every..9</Value>
+    </Setting>
+    <Setting Name="TimedCommandtextBox10" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;Command to send every..10</Value>
+    </Setting>
+    <Setting Name="TimerCommandValueTextBox1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="TimerCommandValueTextBox2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="TimerCommandValueTextBox3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="TimerCommandValueTextBox4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="TimerCommandValueTextBox5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="TimerCommandValueTextBox6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="TimerCommandValueTextBox7" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="TimerCommandValueTextBox8" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="TimerCommandValueTextBox9" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="TimerCommandValueTextBox10" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="SavedHighlight3Colour" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Orange</Value>
+    </Setting>
+    <Setting Name="HighlighttextBoxSetting3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">example test to highlight</Value>
+    </Setting>
+    <Setting Name="SavedHighlightTickbox3" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ASCII_Mode_Setting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ExtendedASCII_Setting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="RemovePrePendingCRLF_Setting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ShowLineNumbers_Setting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="AppendLF_CheckBox" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="AppendCR_CheckBox" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="WindowLabel" Type="System.String" Scope="User">
+      <Value Profile="(Default)">    &lt;...label here&gt;</Value>
+    </Setting>
+    <Setting Name="CR_EQUAL_LFSettingsFlag" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="HighlightReplycheckBox1" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="HighlighttextBoxSetting4" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SavedHighlight4Colour" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Lime</Value>
+    </Setting>
+    <Setting Name="ShowTimestampSettingsFlag" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="SettingStop_bits" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1 bit</Value>
+    </Setting>
+    <Setting Name="SettingParity" Type="System.String" Scope="User">
+      <Value Profile="(Default)">None</Value>
+    </Setting>
+    <Setting Name="SettingHandshake" Type="System.String" Scope="User">
+      <Value Profile="(Default)">None</Value>
+    </Setting>
+    <Setting Name="SettingDataBits" Type="System.String" Scope="User">
+      <Value Profile="(Default)">8</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
